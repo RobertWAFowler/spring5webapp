@@ -1,4 +1,4 @@
-package com.zenhog.springboot5webapp;
+package com.zenhog.spring5webapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Springboot5webappApplicationTests {
+public class Spring5webappApplicationTests {
 
     @Test
     public void contextLoads() {

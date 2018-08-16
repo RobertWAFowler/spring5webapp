@@ -1,12 +1,12 @@
-package com.zenhog.springboot5webapp;
+package com.zenhog.spring5webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springboot5webappApplication {
+public class Spring5webappApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Springboot5webappApplication.class, args);
+        SpringApplication.run(Spring5webappApplication.class, args);
     }
 }
