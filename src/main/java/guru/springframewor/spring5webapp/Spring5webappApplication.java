@@ -1,4 +1,4 @@
-package com.zenhog.spring5webapp;
+package guru.springframewor.spring5webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

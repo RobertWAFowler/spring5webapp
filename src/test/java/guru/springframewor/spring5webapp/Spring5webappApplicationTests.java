@@ -1,4 +1,4 @@
-package com.zenhog.spring5webapp;
+package guru.springframewor.spring5webapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
