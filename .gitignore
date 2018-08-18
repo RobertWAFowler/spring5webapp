@@ -23,3 +23,5 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+/src/main/java/scratch/
+src/main/java/scratch/
